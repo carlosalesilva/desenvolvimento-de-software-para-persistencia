@@ -1,0 +1,22 @@
+<Catalogo>
+  <Filmes>
+    <Filme>
+      <id>1</id>
+      <titulo>O Poderoso Chefão</titulo>
+      <sinopse>Sinopse do filme</sinopse>
+      <diretor>Francis Ford Coppola</diretor>
+    </Filme>
+    <Filme>
+      <id>2</id>
+      <titulo>O Poderoso Chefão II</titulo>
+      <sinopse>Sinopse do filme</sinopse>
+      <diretor>Francis Ford Coppola</diretor>
+    </Filme>
+    <Filme>
+      <id>3</id>
+      <titulo>O Poderoso Chefão III</titulo>
+      <sinopse>Sinopse do filme</sinopse>
+      <diretor>Francis Ford Coppola</diretor>
+    </Filme>
+  </Filmes>
+</Catalogo>
