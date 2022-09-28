@@ -1,0 +1,18 @@
+<ListaDeCarros>
+  <Carros>
+    <Carros>
+      <id>0</id>
+      <modelo>uno</modelo>
+      <marca>fiat</marca>
+      <ano>2000</ano>
+      <potencia>2.0</potencia>
+    </Carros>
+    <Carros>
+      <id>1</id>
+      <modelo>kalddla</modelo>
+      <marca>sadmkldas</marca>
+      <ano>2222</ano>
+      <potencia>22</potencia>
+    </Carros>
+  </Carros>
+</ListaDeCarros>
